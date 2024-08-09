@@ -3,5 +3,3 @@
 ---
 
 ### Blogy
-
-title: Homepage
